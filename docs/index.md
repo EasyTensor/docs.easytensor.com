@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to EayTensor
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+EasyTensor is the fastest way to deploy and share your ML models online.
 
-## Commands
+To get started install our [python package](https://pypi.org/project/easytensor/), or upload your model via our GUI on [easytensor.com](https://app.easytensor.com).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
