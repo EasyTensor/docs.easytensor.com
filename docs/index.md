@@ -1,4 +1,4 @@
-# Welcome to EayTensor
+# Introduction
 
 EasyTensor is the fastest way to deploy and share your ML models online.
 

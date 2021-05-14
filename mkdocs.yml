@@ -3,9 +3,14 @@ theme:
   name: material
   logo: assets/images/favicon.ico
   favicon: assets/images/favicon.ico
+  palette:
+    primary: cyan
+    scheme: slate
+
 use_pygments: true
 
 markdown_extensions:
   # highlight code blocks
   - pymdownx.highlight
   - pymdownx.superfences
+
